@@ -1,0 +1,8 @@
+{
+  "name": "Smart Campus Energy Optimizer",
+  "description": "LLM-assisted energy scheduling and optimization API and dashboard for BUP CSE Fest Hackathon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
